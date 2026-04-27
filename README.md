@@ -11,3 +11,16 @@ It demonstrates how Java objects are mapped to database tables and how CRUD oper
 --> Entity class mapping<br>
 --> Session and Transaction management<br>
 --> Basic exception handling
+
+<h3>📖 What I Learned</h3>
+
+--> Hibernate architecture (SessionFactory, Session, Transaction)<br>
+--> Difference between JDBC and Hibernate<br>
+--> Mapping Java objects to database tables<br>
+--> Writing cleaner and less boilerplate code using ORM
+
+<h3>🤝 Contributing</h3>
+
+This is a learning project, but suggestions and improvements are always welcome!
+
+<h3>Created by :- Parv Chauhan</h3>
