@@ -21,6 +21,6 @@ It demonstrates how Java objects are mapped to database tables and how CRUD oper
 
 <h3>🤝 Contributing</h3>
 
-This is a learning project, but suggestions and improvements are always welcome!
+This is a learning project, but suggestions and improvements are always welcome.
 
 <h3>Created by :- Parv Chauhan</h3>
