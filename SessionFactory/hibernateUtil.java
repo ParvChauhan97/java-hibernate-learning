@@ -15,9 +15,11 @@ public class hibernateUtil {
             e.printStackTrace();
         }
     }
+    
     public static Session getSession() {
         return sessionFactory.getCurrentSession();
     }
+    
      public static void close() {
         sessionFactory.close();
     }
