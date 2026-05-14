@@ -19,7 +19,6 @@ public class hibernateUtil {
     public static Session getSession() {
         return sessionFactory.getCurrentSession();
     }
-    
      public static void close() {
         sessionFactory.close();
     }
