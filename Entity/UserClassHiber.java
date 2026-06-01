@@ -12,6 +12,7 @@ public class UserClassHiber {
     private String email;
 
     UserClassHiber() {
+        
     }
 
     UserClassHiber(int id, String name, String email) {
